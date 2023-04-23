@@ -1,103 +1,113 @@
 { 
     "name": "Thorn",
-    "description": "test",
+    "description": "smh my head",
    "authors": [
      {
        "name": "A7th",
-       "id": "354936587186077707"
+       "id": "1098311497949651024"
      }
    ],
   "spec": 2,
     "semanticColors": {
         "HEADER_PRIMARY": [
-          
-          "#158491"
+            "#ffffff"
         ],
         "HEADER_SECONDARY": [
-          
-          "#158491"
+            "#95d2b0"
         ],
         "TEXT_NORMAL": [
-          
-          "#D6D6D6"
+            "#ffffff"
         ],
         "TEXT_MUTED": [
-          
-          "#10717c"
-        ],
-        "INTERACTIVE_NORMAL": [
-          
-          "#158491"
-        ],
-        "INTERACTIVE_HOVER": [
-          
-          "#c5c118"
-          ],
-          "INTERACTIVE_ACTIVE": [
-            "#158491"
-        ],
-        "INTERACTIVE_MUTED": [
-            "#3a3a3a"
-        ],
-        "BACKGROUND_PRIMARY": [
-            "#06000A"
-        ],
-        "BACKGROUND_SECONDARY": [
-            "#171717"
-        ],
-        "BACKGROUND_SECONDARY_ALT": [
-            "#06000A"
-        ],
-        "BACKGROUND_TERTIARY": [
-            "#06000A"
-        ],
-        "BACKGROUND_ACCENT": [
-            "#08393F"
-        ],
-        "BACKGROUND_FLOATING": [
-            "#06000A"
-        ],
-        "BACKGROUND_MOBILE_PRIMARY": [
-            "#06000A"
-        ],
-        "BACKGROUND_MOBILE_SECONDARY": [
-            "#06000A"
-        ],
-        "BACKGROUND_MESSAGE_HOVER": [
-            "#171717"
-        ],
-        "BACKGROUND_MODIFIER_HOVER": [
-            "#171717"
-        ],
-        "BACKGROUND_MODIFIER_ACTIVE": [
-            "#464646"
-        ],
-        "BACKGROUND_MODIFIER_SELECTED": [
-            "#1f1a23"
-        ],
-        "BACKGROUND_MODIFIER_ACCENT": [
-            "#396165"
+            "#95d2b0"
         ],
         "TEXT_LINK": [
-            "#396165"
+            "#95d2b0"
         ],
-        "KEYBOARD": [
-            "#06000A"
+        "TEXT_DANGER": [
+            "#95d2b0"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#ffffff"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#ffffff"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#95d2b0"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#121212"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#121212"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#121212"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#121212"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#95d2b0"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#121212"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#121212"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#121212"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#121212"
+        ],
+        "BACKGROUND_MENTIONED": [
+            "#121212"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#121212"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#95d2b0"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#121212"
+        ],
+        "SPOILER_HIDDEN_BACKGROUND": [
+            "#121212"
+        ],
+        "SPOILER_REVEALED_BACKGROUND": [
+            "transparent"
+        ],
+        "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+            "#999999"
+        ],
+        "CHAT_BACKGROUND": [
+            "#121212"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#999999"
+        ],
+        "TEXT_LINK": [
+            "#95d2b0"
+        ],
+        "CHANNEL_ICON": [
+            "#ffffff"
+        ],
+        "CHANNELTEXTAREA_BACKGROUND": [
+            "#121212"
         ]
 },
 "rawColors": {
-    "PRIMARY_800": "#06000A",
-    "PRIMARY_600": "#06000A"
+    "PRIMARY_800": "#121212",
+    "PRIMARY_600": "#121212"
   },
   "background": {
     "blur": 0.3,
-    "url": "https://cdn.discordapp.com/attachments/1089788093009240104/1099086378563801221/oGL8aO8K.jpg",
+    "url": "https://media.discordapp.net/attachments/654037839083995150/1098313679201632468/IMG_20230419_132615.jpg",
     "alpha": 0.7
     
-    },
-    "fonts": {
-        "*": "https:\/\/github.com\/PancakesStacked\/Font-bs\/blob\/main\/Salden-Roman.ttf?raw=true",
-        "ginto_bold": "https:\/\/github.com\/PancakesStacked\/Font-bs\/blob\/main\/Cyrillic%20goth%20normal.ttf?raw=true"
-    },
-     
+  }
 }
