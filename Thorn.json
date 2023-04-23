@@ -108,6 +108,11 @@
     "blur": 0.3,
     "url": "https://media.discordapp.net/attachments/654037839083995150/1098313679201632468/IMG_20230419_132615.jpg",
     "alpha": 0.7
+  
+  },
+    "fonts": {
+        "ggsans-Normal.ttf": "https:\/\/github.com\/PancakesStacked\/Font-bs\/blob\/main\/Salden-Roman.ttf?raw=true",
+        "ggsans-Bold.ttf": "https:\/\/github.com\/PancakesStacked\/Font-bs\/blob\/main\/Cyrillic%20goth%20normal.ttf?raw=true"
     
   }
 }
