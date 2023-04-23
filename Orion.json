@@ -37,46 +37,46 @@
             "#95d2b0"
         ],
         "BACKGROUND_PRIMARY": [
-            "#1a1c1b"
+            "#121212"
         ],
         "BACKGROUND_SECONDARY": [
-            "#1a1c1b"
+            "#121212"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#1a1c1b"
+            "#121212"
         ],
         "BACKGROUND_TERTIARY": [
-            "#1a1c1b"
+            "#121212"
         ],
         "BACKGROUND_ACCENT": [
             "#95d2b0"
         ],
         "BACKGROUND_FLOATING": [
-            "#1a1c1b"
+            "#121212"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#1a1c1b"
+            "#121212"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#1a1c1b"
+            "#121212"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#1a1c1b"
+            "#121212"
         ],
         "BACKGROUND_MENTIONED": [
-            "#1a1c1b"
+            "#121212"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#1a1c1b"
+            "#121212"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
             "#95d2b0"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#1a1c1b"
+            "#121212"
         ],
         "SPOILER_HIDDEN_BACKGROUND": [
-            "#1a1c1b"
+            "#121212"
         ],
         "SPOILER_REVEALED_BACKGROUND": [
             "transparent"
@@ -85,7 +85,7 @@
             "#999999"
         ],
         "CHAT_BACKGROUND": [
-            "#1a1c1b"
+            "#121212"
         ],
         "CHANNELS_DEFAULT": [
             "#999999"
@@ -97,7 +97,7 @@
             "#ffffff"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
-            "#1a1c1b"
+            "#121212"
         ]
 },
 "rawColors": {
