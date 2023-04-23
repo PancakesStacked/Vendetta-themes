@@ -6,16 +6,16 @@
        "name": "Felix Svetloozerskiy",
        "id": "354936587186077707"
      }
-   ],
+     ],
   "spec": 2,
     "semanticColors": {
         "HEADER_PRIMARY": [
           
-          "#d81418"
+          "#158491"
         ],
         "HEADER_SECONDARY": [
           
-          "#d81418"
+          "#158491"
         ],
         "TEXT_NORMAL": [
           
@@ -34,7 +34,7 @@
           "#c5c118"
           ],
           "INTERACTIVE_ACTIVE": [
-            "#d81418"
+            "#158491"
         ],
         "INTERACTIVE_MUTED": [
             "#3a3a3a"
