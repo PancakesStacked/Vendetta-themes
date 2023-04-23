@@ -88,6 +88,11 @@
 "rawColors": {
     "PRIMARY_800": "#06000A",
     "PRIMARY_600": "#06000A"
+},
+    "fonts": {
+        "*": "https:\/\/github.com\/PancakesStacked\/Font-bs\/blob\/main\/Salden-Roman.ttf?raw=true",
+        "ginto_bold": "https:\/\/github.com\/PancakesStacked\/Font-bs\/blob\/main\/Cyrillic%20goth%20normal.ttf?raw=true"
+    },
   },
   "background": {
     "blur": 0.2,
