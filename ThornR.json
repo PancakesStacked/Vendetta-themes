@@ -1,10 +1,10 @@
 {
-    "name": "ThornR",
-    "description": "smh my head",
+    "name": "OneColor",
+    "description": "A cool theme based on One Color.",
     "authors": [
         {
-            "name": "smh#2855",
-            "id": "1098311497949651024"
+            "name": "Wizzy#0211",
+            "id": "715443625580036128"
         }
     ],
     "semanticColors": {
@@ -123,12 +123,17 @@
         "RED_560" : "#95d2b0",
         "RED_400": "#95d2b0"
     },
-    "spec": 2
-  },
+    "spec": 2  },
   "background": {
     "blur": 0.3,
     "url": "https://cdn.discordapp.com/attachments/1089788093009240104/1099086378563801221/oGL8aO8K.jpg",
     "alpha": 0.7
+    
+    },
+    "fonts": {
+        "*": "https:\/\/github.com\/PancakesStacked\/Font-bs\/blob\/main\/Salden-Roman.ttf?raw=true",
+        "ginto_bold": "https:\/\/github.com\/PancakesStacked\/Font-bs\/blob\/main\/Cyrillic%20goth%20normal.ttf?raw=true"
+    },
      
 }
-
+}
