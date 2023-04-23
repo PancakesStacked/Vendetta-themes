@@ -101,8 +101,8 @@
         ]
 },
 "rawColors": {
-    "PRIMARY_800": "#1a1c1b",
-    "PRIMARY_600": "#1a1c1b"
+    "PRIMARY_800": "#121212",
+    "PRIMARY_600": "#121212"
   },
   "background": {
     "blur": 0.3,
