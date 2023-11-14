@@ -1,10 +1,10 @@
 {
     "name": "WavyPink",
-    "description": "The same, but its pink :3",
+    "description": "The same, but its fixed :3",
     "authors": [
         {
-            "name": "Ari",
-            "id": "639959347518242821"
+            "name": "Pancakes",
+            "id": "1098311497949651024"
         }
     ],
     "semanticColors": {
@@ -134,7 +134,7 @@
        
     },
   "background": {
-    "blur": 5,
+    "blur": 3,
     "url": "https://cdn.discordapp.com/attachments/919920863720120382/1130867388108263555/New_Project_14_4F20954.png",
     "alpha": 0.2
   },
