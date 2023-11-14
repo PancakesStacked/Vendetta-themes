@@ -138,10 +138,5 @@
     "url": "https://cdn.discordapp.com/attachments/1161926617673768990/1173876112267427840/wwavypink.jpg?ex=65658c52&is=65531752&hm=7f5b76f84bc76f25028c01d7126ba0b100df530c86459216581b5068fa8f411b&",
     "alpha": 1
   },
-    "spec": 2
-      },
-    "fonts": {
-        "ggsans-Normal.ttf": "https:\/\/github.com\/PancakesStacked\/Font-bs\/blob\/main\/Salden-Roman.ttf?raw=true",
-        "ggsans-Bold.ttf": "https:\/\/github.com\/PancakesStacked\/Font-bs\/blob\/main\/Cyrillic%20goth%20normal.ttf?raw=true"
-        
+    "spec": 2       
 }
